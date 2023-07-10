@@ -1,7 +1,7 @@
 # FD
 
 ```
-os.popen(command).read()
+. env_flask.sh 
 ```
 
 ![](.gitcontent/flask_desk.png)
